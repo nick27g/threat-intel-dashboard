@@ -116,4 +116,4 @@ The dashboard is at `http://localhost:3000`. The API route is at `http://localho
 
 ## Author
 
-Nick Agin — [github.com/nick27g](https://github.com/nick27g)
+Nick Ghuneim — [github.com/nick27g](https://github.com/nick27g)
